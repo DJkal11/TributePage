@@ -1,0 +1,77 @@
+.img-responsive {
+    max-width: 70%;
+    margin-left: 0%;
+    height: auto;
+    }
+#what {
+  font-size: 20px;
+}
+
+    .fam {
+      font-family: sans-serif;
+      text-align: left;
+      padding: 20px;
+    }
+
+    .headline{
+      font-size: 50px;
+      font-family: Times New Roman;
+      text-align: center;
+    }
+
+    .li {
+      padding: 10px;
+      margin-right: 400px;
+      margin-left: 500px;
+    }
+    img {
+      border-radius: 100%;
+      border-width: 5px;
+      border-style: solid;
+      border-color: white;
+      width: 800px;
+      margin-left: 320px;
+      
+    }
+    figcaption {
+      margin-right: 0px;
+      margin-left: 240px;
+      font-family: Times New Roman;
+      font-size: 17px;
+      padding: 10px;
+    }
+    
+    p {
+      margin-left: 200px;
+      font-size: 22px;
+      font-family: Arial;
+    }
+    body {
+      background: url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
+      
+    }
+    .bottom {
+      padding: 10px;
+      margin-right: 400px;
+      margin-left: 500px;
+      font-size: 17px;
+    }
+    h3 {
+      margin-right: 0px;
+      margin-left: 500px;
+      font-size: 22px;
+      font-family: Arial;
+    }
+    figure {
+      background-color: white;
+      margin-left: 10px;
+      margin-right: 10px;
+      
+    }
+    
+
+    #tribute-info{
+      padding: 20px;
+      margin-left: 250px;
+      font-size: 20px;
+    }
